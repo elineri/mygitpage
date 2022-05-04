@@ -46,6 +46,7 @@ function About() {
     <main>
       <h2>Welcome to the about page</h2>
       <p>Test text skrivs här</p>
+      <p>Lite mer text</p>
     </main>
     <section></section>
     <footer></footer>
