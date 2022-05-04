@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/elineri/mygitpage/static/css/main.073c9b0a.css",
+    "main.js": "/elineri/mygitpage/static/js/main.e4471e40.js",
+    "index.html": "/elineri/mygitpage/index.html",
+    "main.073c9b0a.css.map": "/elineri/mygitpage/static/css/main.073c9b0a.css.map",
+    "main.e4471e40.js.map": "/elineri/mygitpage/static/js/main.e4471e40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e4471e40.js"
+  ]
+}
